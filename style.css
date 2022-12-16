@@ -25,10 +25,17 @@ header{
 }
 .header-nav ul li{
     margin: 0 1em;
+    
 }
 .header-nav a
 {
     padding: 0 1em;
     color: white;
     font-weight: 600;
+    font-size: 1.5em;
+}
+.header-nav a:hover
+{
+    padding: 1.0em 1.0em;
+    background-color:#45567d;
 }
