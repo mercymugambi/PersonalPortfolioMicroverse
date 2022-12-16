@@ -19,7 +19,6 @@ header{
     padding: 1em 1em;
 }
 
-
 .header-nav ul{
     display: flex;
 }
@@ -38,4 +37,10 @@ header{
 {
     padding: 1.1em 1.0em;
     background-color:#45567d;
+}
+.img{
+    height: calc(100% - 6.8rem);
+    width: 100%;
+    object-fit: cover;
+    
 }
