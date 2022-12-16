@@ -31,11 +31,11 @@ header{
 {
     padding: 0 1em;
     color: white;
-    font-weight: 600;
-    font-size: 1.5em;
+    font-weight: 400;
+    font-size: 1.4em;
 }
 .header-nav a:hover
 {
-    padding: 1.0em 1.0em;
+    padding: 1.1em 1.0em;
     background-color:#45567d;
 }
